@@ -1,0 +1,13 @@
+.container {
+    margin-bottom: 20px;
+  }
+  
+  .uploadButton {
+    background-color: blue;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
